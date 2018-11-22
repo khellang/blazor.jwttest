@@ -36,9 +36,11 @@ namespace blazor.jwttest.Server.Database
             FullName = "Administrator",
             Email = "admin@mycorp.com",
             Password = BCrypt.Net.BCrypt.HashPassword("letmein"),
-            AllowedRoles = new string[] {"admin", "user", "manager", "reporter"}
+            AllowedRoles = new string[] {"admin", "useredit", "roleedit"}
           }
         );
+
+        // Some malicious code inserted here...
 
     }
 
