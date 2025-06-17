@@ -25,3 +25,11 @@ This should be useable against other DB's (since it uses EF) but I've not tested
 
 ## Credit
 Credit where credit is due, some large chunks of the code in here came from Chris Saintly at Codedaze.io and his article on doing JWT in a blazor app, I'd also like to say thanks to @SQL-MisterMagoo and @kswoll in the Blazor gitter group for pointers on component communication, and overriding the HTTP client to get better error handling.
+
+## Sponsors
+
+[Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=khellang&utm_medium=blazor.jwttest) and [Dapper Plus](https://dapper-plus.net/?utm_source=khellang&utm_medium=blazor.jwttest) are major sponsors and proud to contribute to the development of blazor.jwttest.
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/khellang/khellang/refs/heads/master/.github/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=khellang&utm_medium=blazor.jwttest)
+
+[![Dapper Plus](https://raw.githubusercontent.com/khellang/khellang/refs/heads/master/.github/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=khellang&utm_medium=blazor.jwttest)
